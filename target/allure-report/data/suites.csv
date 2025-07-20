@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test Description: Login test with valid credentials","5125","Verify that user can login with valid credentials","Surefire suite","Tue May 20 17:34:49 IST 2025","passed","Tue May 20 17:34:54 IST 2025","tests.LoginTest","Surefire test","tests.LoginTest","testValidLogin"
